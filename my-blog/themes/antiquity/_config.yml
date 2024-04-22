@@ -1,0 +1,71 @@
+# Header
+menu:
+  首页: /
+  归档: /archives
+
+rss: /atom.xml
+nav: right
+mobile_nav: right
+
+
+
+# Content
+excerpt_link: 阅读全文
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- userinfo
+- recent_posts
+- category
+- tag
+- tagcloud
+- archive
+- blogroll
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: true
+show_current: true
+
+# Background
+background_image: https://github.com/zuoshiyue/blog/blob/master/images/36221698050163.jpg?raw=true
+
+# favicon
+favicon: https://github.com/zuoshiyue/blog/blob/master/images/zd.jpg?raw=true
+
+#Userinfo
+author: 左拾月
+slogan: 用心甘情愿的态度，过随遇而安的生活。
+avatar: https://github.com/zuoshiyue/blog/blob/master/images/zd.jpg?raw=true
+avatar_title: 自渡
+
+
+# Article code panel: cloud doorframe mac
+highlightPanel: cloud
+
+#Gitment
+gitment:
+  owner: 
+  repo: 
+  client_id: 
+  client_secret: 
+
+# Miscellaneous
+google_analytics:
+gauges_analytics:
+google_site_verification: 
+baidu_site_verification: 
+
+# 友情链接
+blogroll:
+  左拾月的导航页: https://zuoshiyue.github.io/navi/
+  左拾月的github: https://github.com/zuoshiyue
+  魔盒: https://www.jx3box.com/index/

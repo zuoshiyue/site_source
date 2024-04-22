@@ -1,0 +1,141 @@
+- name: GitLab
+  img: 
+  url: http://git.guazi-corp.com/
+  description:
+- name: Skywalking
+  img: 
+  url: http://skywalking.guazi-apps.com/
+  description:
+- name: Medusa
+  img:
+  url: https://medusa.guazi-apps.com/app/applist?env=online
+  description:
+- name: ETCD
+  img:
+  url: https://config.guazi-apps.com/etcd
+  description:
+- name: JIRA 
+  img:
+  url: http://project.guazi-corp.com
+  description:
+- name: 用户研发看板
+  img:
+  url: http://project.guazi-corp.com/secure/Dashboard.jspa?selectPageId=14715
+  description:
+
+- name: NIER
+  img:
+  url: https://nier2.guazi-apps.com/alarmTemplates/list
+  description:
+- name: Kibana
+  img:
+  url: https://kibana.guazi-apps.com/
+  description:
+- name: OKR
+  img:
+  url: https://okr.guazi.com/#
+  description:
+- name: 测试包下载
+  img:
+  url: https://wx-share.guazi-apps.com/packageList?appId=10
+  description:
+- name: AB实验平台
+  img:
+  url: https://pangu.guazi-apps.com/ab-admin/experimentList
+  description:
+- name: KCP后台
+  img:
+  url: http://kcp.guazi-apps.com/
+  description:
+- name: 商品中心后台
+  img:
+  url: https://pangu.guazi-apps.com/product_test_backstage
+  description:
+- name: 广告配置后台
+  img:
+  url: https://pangu.guazi-apps.com/ad-background/contentList
+  description:
+- name: 售车CRM管理系统
+  img:
+  url: https://sale-crm.guazi.com/#/nationwide-purchase/national-purchase-order/list
+  description:
+- name: 订单管理后台
+  img: 
+  url: https://pangu.guazi-apps.com/order-web/whitelist_config
+  description:
+- name: 二手车CRM后台
+  img:
+  url: https://client-crm.guazi-apps.com/index
+  description:
+- name: SPC权限系统
+  img:
+  url: https://spc.guazi-apps.com/#/
+  description:
+- name: 商城标签配置
+  img:
+  url: https://pangu.guazi-apps.com/car_label_config/configList
+  description:
+- name: 公共平台
+  img:
+  url: https://sms-manager.guazi-apps.com/sms/code
+  description:
+- name: 网销CRM平台
+  img:
+  url: https://crm2.guazi.com/
+  description:
+- name: 排班系统
+  img:
+  url: https://pangu-preview.guazi-apps.com/DutySystem/shiftSchedule?teamName=%E5%95%86%E5%9F%8E
+  description:
+- name: 用户中心管理后台
+  img:
+  url: http://chd-uc-admin.guazi-apps.com/rule_white_list
+  description:
+- name: 交付平台
+  img:
+  url: https://cars-delivery.guazi.com/crm
+  description:
+- name: 哈勃数据平台
+  img:
+  url: https://data-portal.guazi-apps.com/
+  description:
+- name: 数据开发平台
+  img:
+  url: https://habo-new.guazi-apps.com/
+  description:
+- name: big data platform
+  img:
+  url: https://max-kafka-new.guazi-apps.com/topics/detail?tab=data
+  description:
+- name: 大数据权限申请
+  img:
+  url: https://max-auth.guazi-apps.com/
+  description:
+- name: 数据资产管理平台
+  img:
+  url: https://idata.guazi-apps.com/assetMap/assetMenu/tableEncyclopedia/tableView/dataTableDetails?id=140553
+  description:
+- name: 数据库自助服务
+  img:
+  url: https://db-service.guazi-corp.com/
+  description:
+- name: 瓜子web邮箱
+  img:
+  url: https://webmail.guazi.com
+  description:
+- name: 瓜子交易平台工具
+  img:
+  url: https://qa-znkfn-tool.guazi-cloud.com/home/
+  description: 支付mock\计算物流费
+- name: 过户审核通过swagger
+  img:
+  url: http://user-order.guazi-cloud.com/swagger-ui.html#/%E5%B7%A5%E5%85%B7%E7%B1%BB/auditPassUsingPOST
+  description: 工具 - auditPass - 没权限去订单管理后台添加
+- name: 过户审核通过swagger
+  img:
+  url: http://user-order.guazi-cloud.com/swagger-ui.html#/%E5%B7%A5%E5%85%B7%E7%B1%BB/auditPassUsingPOST
+  description: 工具 - auditPass  
+- name: 大鱼平台
+  img:
+  url: https://vbigfish.guazi-cloud.com/#/layout/layout?id=2abdb73d-ce6f-427c-9e6a-94fea61408d8
+  description: 

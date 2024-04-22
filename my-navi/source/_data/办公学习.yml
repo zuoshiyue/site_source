@@ -1,0 +1,36 @@
+- name: 美团技术资源
+  img:
+  url: https://tech.meituan.com/
+  description:
+- name: regex101
+  img:
+  url: https://regex101.com/
+  description: 强大的正则表达式工具
+- name: cloudconvert
+  img:
+  url: https://cloudconvert.com/formats
+  description: 一个格式转换网站
+- name: 阮一峰的网络日志
+  url: http://www.ruanyifeng.com/blog/
+  img: 阮一峰.png
+  description: 阮一峰，科技爱好者周刊。
+- name: 酷壳
+  url: https://www.coolshell.cn/
+  img: ''
+  description: 酷 壳 – CoolShell。
+- name: 有道词典
+  img: 有道词典.png
+  url: https://www.youdao.com/
+  description: 免费，即时的多语种在线翻译。
+- name: 有道翻译
+  img: 有道词典.png
+  url: http://fanyi.youdao.com/
+  description: 有道翻译。
+- name: 谷歌翻译
+  img: 谷歌翻译.jpg
+  url: https://translate.google.cn/
+  description: 谷歌翻译。
+- name: ProcessOn
+  img: ProcessOn.png
+  url: https://www.processon.com/
+  description: 免费在线作图、实时协作。

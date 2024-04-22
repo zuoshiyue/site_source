@@ -1,0 +1,52 @@
+- name: Iconfinder
+  img: Iconfinder.png
+  url: https://www.iconfinder.com
+  description: 2,100,000+ free and premium vector icons.
+- name: iconfont
+  img: iconfont.png
+  url: http://www.iconfont.cn/
+  description: 阿里巴巴矢量图标库。
+- name: iconmonstr
+  img: iconmonstr.png
+  url: https://iconmonstr.com/
+  description: Free simple icons for your next project.
+- name: Icon Archive
+  img: iconarchive.png
+  url: http://www.iconarchive.com/
+  description: Search 590,912 free icons.
+- name: FindIcons
+  img: FindIcons.png
+  url: https://findicons.com/
+  description: Search through 300,000 free icons.
+- name: IcoMoonApp
+  img: IcoMoonApp.png
+  url: https://icomoon.io/app/
+  description: Icon Font, SVG, PDF &amp; PNG Generator.
+- name: easyicon
+  img: easyicon.png
+  url: http://www.easyicon.net/
+  description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
+- name: flaticon
+  img: flaticon.png
+  url: https://www.flaticon.com/
+  description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
+- name: UICloud
+  img: UICloud.png
+  url: http://ui-cloud.com/
+  description: The largest user interface design database in the world.
+- name: Material icons
+  img: Materialicons.png
+  url: https://material.io/icons/
+  description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
+- name: Font Awesome Icon
+  img: fontawesomeicon.png
+  url: https://fontawesome.com/icons/
+  description: The complete set of 675 icons in Font Awesome.
+- name: ion icons
+  img: ionicons.png
+  url: http://ionicons.com/
+  description: The premium icon font for Ionic Framework.
+- name: Simpleline Icons
+  img: simplelineicons.png
+  url: http://simplelineicons.com/
+  description: Simple line Icons pack.

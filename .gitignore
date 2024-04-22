@@ -1,0 +1,6 @@
+# dir 不需要提交的目录
+/my-blog/node_modules/
+/my-navi/node_modules/
+/my-blog/public/
+/my-navi/public/
+

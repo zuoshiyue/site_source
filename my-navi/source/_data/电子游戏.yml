@@ -1,0 +1,39 @@
+- name: 小森灵
+  img:
+  url: https://h5-xsl.cokutau.com/game/
+- name: 百度贴吧
+  img: 百度贴吧.jpg
+  url: https://tieba.baidu.com/f?kw=%BD%A3%CD%F83
+  description:
+- name: 剑三魔盒
+  img: jx3box.ico
+  url: https://www.baidu.com/link?url=kcrtN2zbTO4aEWDH3sBtWq2xJ6M5vmr1oa0DSBCwyydgi-SMsO4DMg3vQl-4o9ii&wd=&eqid=b26b41eb000a27140000000364cb0e51
+  description:
+- name: 奇遇查询
+  img:
+  url: https://j3cx.com/serendipity
+  description:
+- name: 圣遗物强化列表
+  img:
+  url: https://ideless.gitee.io/artifact/
+  description:
+- name: 赤兔马播报工具
+  img:
+  url: https://jw3cx.com/
+  description:
+- name: 侠客装备计算器
+  img:
+  url: http://47.106.219.188/xke.html
+  description:
+- name: MAA
+  img:
+  url: https://maa.plus/
+  description: 别问。神器
+- name: 明日方舟一图流
+  img: 公招tag\攒抽计算
+  url: https://ark.yituliu.cn/
+  description:
+- name: 企鹅物流
+  img:
+  url: https://penguin-stats.io/
+  description: 素材掉落率

@@ -1,0 +1,28 @@
+- name: 服务监控看板
+  img:
+  url: https://grafana.guazi-apps.com/?orgId=1
+  description:
+- name: 主机监控看板
+  img:
+  url: http://sre-grafana.guazi-apps.com/d/rYdddlPWk/h03-zhu-ji-jian-kong-xiang-qing?orgId=1&refresh=1m
+  description:
+- name: Redis监控看板
+  img:
+  url: http://db-monitor.guazi-corp.com/d/4DU6HHAik/redis-servers?refresh=30s&orgId=1&var-instance=gzscmobile.master.g1-sys-redisc-12.4545&var-node=g1-sys-redisc-12
+  description:
+- name: 域名可用性监控
+  img:
+  url: https://grafana.guazi-apps.com/d/BVU3N_SWS1/yun-shang-yu-ming-xiang-qing?orgId=1&var-domain=client-restful-api.guazi-apps.com
+  description:
+- name: fasebi看板
+  img:
+  url: https://lego-data.guazi.com/publicspace/199/10031
+  description:
+- name: JIRA相关fastBI
+  img:
+  url: https://lego-data.guazi.com/publicspace/197/10618
+  description:
+- name: JIRA用户端需求管理
+  img:
+  url: http://project.guazi-corp.com/secure/StructureBoard.jspa?jwupdated=63686&s=46#
+  description:
