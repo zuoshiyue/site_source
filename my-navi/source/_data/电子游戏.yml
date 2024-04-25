@@ -37,3 +37,7 @@
   img:
   url: https://penguin-stats.io/
   description: 素材掉落率
+- name: jx3toy论坛
+  img:
+  url: https://jx3toy.zulipchat.com
+  description: jx3toy宏插件官方的论坛地址
