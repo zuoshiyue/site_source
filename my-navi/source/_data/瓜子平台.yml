@@ -139,3 +139,15 @@
   img:
   url: https://vbigfish.guazi-cloud.com/#/layout/layout?id=2abdb73d-ce6f-427c-9e6a-94fea61408d8
   description: 
+
+- name: 搜索工具平台
+  img:
+  url: https://pangu.guazi-apps.com/searchTool/ProductQuery
+  description: 
+
+- name: 新 - 大鱼平台
+  img:
+  url: https://new-bigfish.guazi-apps.com/testTool/abExperimentTool
+  description: 测试：https://new-bigfish.guazi-cloud.com/testTool/abExperimentTool 
+              说明：https://cwiki.guazi.com/pages/viewpage.action?pageId=422265327
+  
