@@ -98,7 +98,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ## theme: landscape
-theme: antiquity
+## theme: antiquity
+theme: light
 
 toc:
   maxdepth: 2
